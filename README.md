@@ -6,8 +6,11 @@
 | :label: Tecnologias | Angular, npm, Typescript
 | :fire: Desafio     | https://www.youtube.com/playlist?list=PL1w1q3fL4pmj9k1FrJ3Pe91EPub2_h4jF
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+<img 
+  src="https://raw.githubusercontent.com/rosantanasouza/locacao-casas/main/assets/img/Ilustracao_casa.jpg#vitrinedev"
+  width="700"
+  height="500"
+/>
 
 ## Detalhes do projeto
 
